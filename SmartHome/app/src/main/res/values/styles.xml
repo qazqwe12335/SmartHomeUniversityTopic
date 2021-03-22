@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="GreenSwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated">#B8860B</item>
+    </style>
+
+    <style name="YellowSwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated">#80FF3300</item>
+    </style>
+
+    <style name="BlueSwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated">#008800</item>
+    </style>
+
+    <style name="RedSwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated">#00AACD</item>
+    </style>
+
+    <style name="FloatingHintTextStyle" parent="TextAppearance.Design.Hint">
+        <item name="android:textColor">#FF8888</item>
+    </style>
+
+</resources>

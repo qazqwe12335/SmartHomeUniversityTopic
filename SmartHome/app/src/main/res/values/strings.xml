@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+
+    <string name="control_title">Control</string>
+    <string name="ctl_doorlock">門 鎖</string>
+    <string name="ctl_telev">電 視</string>
+    <string name="ctl_light">電 燈</string>
+    <string name="ctl_lignt_power">亮 度</string>
+    <string name="ctl_fan">電 扇</string>
+
+    <string name="main_ip_address">IP Address</string>
+    <string name="main_username">API Key</string>
+    <string name="main_password">Device ID</string>
+
+    <string name="remember_me"> 記住我</string>
+
+    <string name="smart_home_sp">smart_home_sp</string>
+    <string name="smart_home_username">smart_home_username</string>
+    <string name="smart_home_password">smart_home_password</string>
+    <string name="smart_home_status">smart_home_status</string>
+
+</resources>
